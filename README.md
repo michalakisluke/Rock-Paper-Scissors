@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors
 
-In this activity, you will use functions to create a simple Rock Paper Scissors game.
+The following activity was provided in class, with the purpose of using functions to create a simple Rock Paper Scissors game.
 
 ## Instructions
 
